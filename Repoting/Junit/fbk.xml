@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="161.889574">
+<testcase classname="To validate login functionality in Fb" name="To validate login using valid email and invalid password" time="71.366611">
+<system-out><![CDATA[Given user have to be in fb login page......................................passed
+And user have to maximize screen............................................passed
+When user have to enter valide Email and invalid password...................passed
+And user have to click login button.........................................passed
+Then user have to be in password incorrect page.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To validate login functionality in Fb" name="To validate login using valid email and invalid password 2" time="30.964695">
+<system-out><![CDATA[Given user have to be in fb login page......................................passed
+And user have to maximize screen............................................passed
+When user have to enter invalide email and Valid password...................passed
+And user have to click login button.........................................passed
+Then user have to be in password incorrect page.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To validate login functionality in Fb" name="To validate login using valid email and invalid password 3" time="44.915373">
+<system-out><![CDATA[Given user have to be in fb login page......................................passed
+And user have to maximize screen............................................passed
+When user have to enter valid number and Invalid pswd.......................passed
+And user have to click login button.........................................passed
+Then user have to be in password incorrect page.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To validate login functionality in Fb" name="To validate login using valid email and invalid Password" time="14.642895">
+<system-out><![CDATA[Given user have to be in fb login page......................................passed
+And user have to maximize screen............................................passed
+When user have to enter invalide Number  and invalid pass...................passed
+And user have to click login button.........................................passed
+Then user have to be in password incorrect page.............................passed
+]]></system-out>
+</testcase>
+</testsuite>
